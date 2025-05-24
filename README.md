@@ -72,8 +72,6 @@ Boot time and idle animations provide an enhanced interactive experience. When f
 5. Framework: **Arduino**
 6. Click **Finish** and wait for project to initialize
 
-You can now copy your `.cpp` and `.h` files into `src/` folder.
-
 ---
 
 ## 🧾 `platformio.ini` Configuration
@@ -94,8 +92,6 @@ lib_deps =
 	adafruit/DHT sensor library @ ^1.4.6
 	blynkkk/Blynk @ ^1.3.2
 ```
-
-🖼️ *(You can add a screenshot of your .ini file here for reference)*
 
 ---
 
