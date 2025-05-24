@@ -112,9 +112,10 @@ FireThermomist/
 
 ---
 
-## 📸 Screenshots
+## 📸 Circuit Diagram
 
-(Add screenshots of your OLED animations, setup, and `.ini` config here)
+
+[Schematic_Fire-Thermomist_2025-05-24pdf.pdf](https://github.com/user-attachments/files/20422283/Schematic_Fire-Thermomist_2025-05-24pdf.pdf)
 
 ---
 
